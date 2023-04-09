@@ -1,76 +1,42 @@
-# Name of project
+# Loruki
 
-> A longer description
+> For this project we made the planning steps before creating the website and
+> assigned tasks for everyone for creating the website.
 
 ## Table of contents
 
-- [Name of project](#name-of-project)
+- [Loruki](#loruki)
   - [Table of contents](#table-of-contents)
-  - [General info](#general-info)
   - [Screenshots](#screenshots)
+  - [Team Members](#team-members)
   - [Technologies](#technologies)
   - [Setup](#setup)
-  - [Code Examples](#code-examples)
-  - [Features](#features)
-  - [Status](#status)
-  - [Inspiration](#inspiration)
-  - [Contact](#contact)
   - [Instructions for use](#instructions-for-use)
   - [Code Quality Checks](#code-quality-checks)
   - [Continuous Integration (CI)](#continuous-integration-ci)
   - [Repo Setup](#repo-setup)
 
-## General info
-
-> A short description
-
 ## Screenshots
 
-![Example screenshot](./planning/screenshot.jpg)
+![Screenshot](./public/screenshot.jpg)
+
+## Team Members
+
+- [Allan](https://github.com/AllanSaku)
+- [Alex](https://github.com/alex-maletskyi)
+- [Arseniia](https://github.com/ArseniiaDamaksina)
+- [Faisal](https://github.com/faisal-rustamkhel)
 
 ## Technologies
 
 - Node 14.16.0
 - VSC code
-- JavaScript
-- ...
-- ...
+- HTML5 & CSS3
 
 ## Setup
 
-- `npm run start`
-
-## Code Examples
-
-```js
-// the hello world program
-console.log("Hello World");
-```
-
-## Features
-
-List of features ready and Todos for future development
-
--
--
--
-
-To-do list:
-
--
--
-
-## Status
-
-Project is: _in progress_
-
-## Inspiration
-
-Project by freeCodeCamp.org
-
-## Contact
-
-By [Name]
+- clone the repo
+- npm install
 
 ## Instructions for use
 
