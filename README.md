@@ -22,10 +22,10 @@
 
 ## Team Members
 
-- Allan (https://github.com/AllanSaku)
-- Alex (https://github.com/alex-maletskyi)
-- Arseniia (https://github.com/ArseniiaDamaksina)
-- Faisal (https://github.com/faisal-rustamkhel)
+- [Allan](https://github.com/AllanSaku)
+- [Alex](https://github.com/alex-maletskyi)
+- [Arseniia](https://github.com/ArseniiaDamaksina)
+- [Faisal](https://github.com/faisal-rustamkhel)
 
 ## Technologies
 
