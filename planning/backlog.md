@@ -4,7 +4,7 @@
 
 ### Home page
 
-- As a user I can read the clear `title` of the page.
+- As a user I can read the clear `title` of the website.
   - [ ] _there is a prominent `title` at the top of the web page_
 - As a user I can navigate the web page from a `navbar`.
   - [ ] _there is a `navbar` at the top of the page with links to the different
@@ -21,11 +21,14 @@
 
 ### Features page
 
-- As a user I can read the clear `title` of the page.
-  - [ ] _there is a prominent `title` and `logo` at the top of the web page_
+- As a user I can read the clear `title` of the website.
+  - [ ] _there is a prominent `title` at the top of the web page_
 - As a user I can navigate the web page from a `navbar`.
   - [ ] _there is a `navbar` at the top of the page with links to the different
         pages_
+- As a user I can read the clear `page title`.
+  - [ ] _there is a `section` with `page title` and `logo` after the name of
+        website_
 - As a user I am able to see the general info about Loruki.
   - [ ] _there is a `section` in the main section of the page with general
         description_
@@ -36,14 +39,17 @@
 
 ### Docs page
 
-- As a user I can read the clear `title` of the page.
+- As a user I can read the clear `title` of the website.
   - [ ] _there is a prominent `title` at the top of the web page_
 - As a user I can navigate the web page from a `navbar`.
   - [ ] _there is a `navbar` at the top of the page with links to the different
         pages_
+- As a user I can read the clear `page title`.
+  - [ ] _there is a `section` with `page title` and `logo` after the name of
+        website_
 - As a user, I am able to navigate through different documentations
-  - [ ] _there is a sidebar in the main section with links to documentations by
-        themes_
+  - [ ] _there is a `sidebar` in the main section with links to documentations
+        by themes_
 - As a user I can see the documentations depending the sidebar links.
   - [ ] _there is a `div` in the main section with full documentation_
 - As a user I am able to contact the creators of the Loruki website by clicking
