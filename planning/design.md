@@ -1,10 +1,23 @@
 # Design
 
-We decided to have a simple page, we didn't make plan colors or anything else.
-Prettiness is not a priority for this project.
+Below is a wireframe of the website. There are 3 pages: _**Home**_, which
+contains general information; _**Features**_ where it explains what features the
+system has; and _**Docs**_, which explains how to do things.
 
 ---
 
-> [wireframe source](https://excalidraw.com/#json=5697932045058048,50g_dMeek8cnpk9dH1teGg)
+- Red elements - **must-haves**
+- Green elements - **should-haves**
+- Blue elements - **could-haves**
 
-![wireframe](./wireframe.svg)
+## Home
+
+![Wireframe Home](../public/wireframe-home.jpg)
+
+## Features
+
+![Wireframe Features](../public/wireframe-features.jpg)
+
+## Docs
+
+![Wireframe Docs](../public/wireframe-docs.jpg)
