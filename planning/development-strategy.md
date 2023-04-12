@@ -14,7 +14,7 @@ Color legend:
 
 ![Wireframe](../public/wireframe-home.jpg)
 
-## 1. Title
+## 1. Title Home
 
 > As a user I can read the clear title of the website.
 
@@ -30,7 +30,7 @@ Color legend:
 - add `color`
 - add `height`
 
-## 2. Navbar
+## 2. Navbar Home
 
 > As a user I can navigate the web page from a navbar.
 
@@ -51,7 +51,7 @@ Color legend:
 - add `color` `padding` and `margin` to `a` elements
 - add `hover` styling to `a` elements
 
-## 3. Form
+## 3. Form Home
 
 > As a user I am able to see the form to request a demo version of Loruki.
 
@@ -97,7 +97,7 @@ Color legend:
 - position `img` on the left and cards on the right, stacked on top of each
   other
 
-## 5. Footer
+## 5. Footer Home
 
 > As a user I am able to contact the creators of the Loruki website by clicking
 > on the links for different platforms.
@@ -117,7 +117,7 @@ Color legend:
 
 ![Wireframe](../public/wireframe-features.jpg)
 
-## 1. Title
+## 1. Title Features
 
 > As a user I can read the clear title of the website.
 
@@ -133,7 +133,7 @@ Color legend:
 - add `color`
 - add `height`
 
-## 2. Navbar
+## 2. Navbar Features
 
 > As a user I can navigate the web page from a navbar.
 
@@ -154,7 +154,7 @@ Color legend:
 - add `color` `padding` and `margin` to `a` elements
 - add `hover` styling to `a` elements
 
-## 3. Page Title
+## 3. Page Title Features
 
 > As a user I can read the clear `page title`.
 
@@ -186,7 +186,7 @@ Color legend:
 - Define color: gray, font-size, background-color
 - Give width and height to an `<img>`
 
-## 5. Footer
+## 5. Footer Features
 
 > As a user I am able to contact the creators of the Loruki website by clicking
 > on the links for different platforms.
@@ -206,7 +206,7 @@ Color legend:
 
 ![Wireframe](../public/wireframe-docs.jpg)
 
-## 1. Title
+## 1. Title Docs
 
 > As a user I can read the clear title of the website.
 
@@ -222,7 +222,7 @@ Color legend:
 - add `color`
 - add `height`
 
-## 2. Navbar
+## 2. Navbar Docs
 
 > As a user I can navigate the web page from a navbar.
 
@@ -243,7 +243,7 @@ Color legend:
 - add `color` `padding` and `margin` to `a` elements
 - add `hover` styling to `a` elements
 
-## 3. Page Title
+## 3. Page Title Docs
 
 > As a user I can read the clear `page title`.
 
@@ -289,7 +289,7 @@ Color legend:
 - Position the elements
 - Define color, font-size, background-color for each element
 
-## 6. Footer
+## 6. Footer Docs
 
 > As a user I am able to contact the creators of the Loruki website by clicking
 > on the links for different platforms.
