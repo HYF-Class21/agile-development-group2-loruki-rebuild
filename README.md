@@ -1,7 +1,8 @@
 # Loruki
 
-> For this project we made the planning steps before creating the website and
-> assigned tasks for everyone for creating the website.
+> This website is about showcasing an applications host platform, which allows
+> users to deploy their applications to make them available online. The website
+> has 3 pages: Home, Feautures, and Docs.
 
 ## Table of contents
 
