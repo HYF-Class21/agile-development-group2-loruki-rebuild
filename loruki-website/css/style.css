@@ -89,9 +89,10 @@ pre {
 }
 
 /* Submit a demo form */
+
 .showcase-form {
   position: relative;
-  left: 50%;
+  left: 36%;
   top: 60px;
   height: 350px;
   width: 400px;
@@ -130,6 +131,39 @@ pre {
   -webkit-transform: skewY(-3deg);
   -moz-transform: skewY(-3deg);
   -ms-transform: skewY(-3deg);
+}
+
+/* Main section (Home page) */
+
+.stats {
+  padding-top: 100px;
+  animation: slideInFromBottom 1s ease-in;
+}
+
+.stats-heading {
+  max-width: 500px;
+  margin: auto;
+  position: relative;
+  left: 25%;
+}
+
+.stats .grid h3 {
+  font-size: 35px;
+}
+
+.stats .grid p {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.cli .grid {
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+}
+
+.cli .grid > *:first-child {
+  grid-column: 1 / span 2;
+  grid-row: 1 / span 2;
 }
 
 /* Features */
